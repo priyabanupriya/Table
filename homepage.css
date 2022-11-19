@@ -1,0 +1,94 @@
+.border{
+    
+    height: 600px;
+    
+    border: 20px solid #2DC8DA;
+}
+#img1{
+    float:none;
+    padding: 4px;
+    font-size: medium;
+    border-top: 10px;
+
+    
+}
+.c{
+    text-align:left;
+    padding-left: 5%;
+    margin-top: auto;
+}
+.c1{
+    text-align: left;
+    margin: top 3px;
+    padding-left: 5%;
+    padding: top 0;
+    color:black;
+    font-size: 25px;
+
+    
+}
+button{
+    
+    box-sizing: border-box;
+    margin-left: 5%;
+    background-color: orangered;
+    border-color: orangered;
+    font-size: 15px;
+    height: 40px;
+    width: 100px;
+    font-style: normal;
+    color: white;
+    
+}
+.bg img{
+    height: 300px;
+    width: 600px;
+    margin-top: 0px;
+    text-align: right;
+    margin-left: 100%;
+    float: right;
+}
+.dg{
+    height: 100px;
+    width: 200px;
+    margin-top:260px;
+    margin-left: 40px;
+}
+.nike{
+    height: 60px;
+    width: 150px;
+    margin-top:300px;
+    margin-left: 30px;
+    
+}
+.adidas{
+    height: 80px;
+    width: 150px;
+    margin-top:230px;
+    margin-left: 40px;
+    
+}
+.lv{ 
+    height: 80px;
+    width: 150px;
+    margin-top:230px;
+    margin-left: 40px;
+}
+.rb{
+    height: 80px;
+    width: 150px;
+    margin-top:230px;
+    margin-left: 50px;
+}
+.puma{
+    height: 80px;
+    width: 150px;
+    margin-top:230px;
+    margin-left: 90px;
+
+}
+.b2{
+    height: 100px;
+    width: 300px;
+
+}

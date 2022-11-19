@@ -1,0 +1,61 @@
+
+.login-form{
+    text-align: left;
+    align-content: right;
+    align-items: right;
+    margin-right: 80px;
+    float: right;
+    font-size: 20px;
+    
+}
+.border{
+    border-style: solid;
+    height: 540px;
+    border: 50px solid #2DC8DA;
+
+}
+.box input{
+    box-sizing: border-box;
+    height: 30px;
+    width: 350px;
+    padding: 25px;
+    border-color: rgba(0, 255, 242, 0.555);
+    
+   
+}
+
+button{
+    
+    box-sizing: border-box;
+    margin-left: 25%;
+    background-color: orangered;
+    border-color: orangered;
+    color: white;
+    font-size: medium;
+    height: 40px;
+    width: 150px;
+    padding: 10px;
+    
+    
+    
+}
+
+#img1{
+    float:none;
+    padding: 2px;
+    font-size: medium;
+    border-top:5px;
+    
+}
+
+
+
+
+     
+
+
+
+
+    
+    
+
